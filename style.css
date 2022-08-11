@@ -1,0 +1,123 @@
+.heropage {
+  background-color: #23263a;
+}
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1e2235;
+}
+.sub-header {
+  width: 65%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.links {
+  display: flex;
+  width: 500px;
+  justify-content: space-between;
+  align-items: center;
+}
+h2 {
+  color: #fdfeff;
+}
+a {
+  text-decoration: none;
+  color: #9fa5ae;
+}
+.herobody {
+  display: flex;
+  color: #9fa5ae;
+  justify-content: center;
+  align-items: center;
+}
+.body-1 {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image1 {
+  width: 400px;
+}
+.image2 {
+  width: 60px;
+}
+.body-2 {
+  width: 400px;
+}
+button {
+  width: 100px;
+  height: 30px;
+  background-color: transparent;
+  border-width: 2px;
+  border-color: #58181f, #58181f, #58181f, #58181f;
+  border-radius: 30px;
+}
+.button {
+  display: flex;
+  width: 180px;
+  justify-content: space-around;
+  align-items: center;
+}
+.herobody2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #1e2235;
+  color: #9fa5ae;
+}
+.herobody2 p {
+  width: 400px;
+}
+h4 {
+  color: black;
+}
+.small-line {
+  margin-left: 20px;
+  width: 100px;
+  background-color: black;
+  height: 3px;
+}
+.herobody3 {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1e2235;
+}
+.herrobody3 {
+  width: 65%;
+  height: 90px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #1e2235;
+  color: #9fa5ae;
+}
+.herobody3-i {
+  width: 250px;
+  background-color: #23263a;
+}
+.herobody3-i img {
+  width: 30px;
+}
+.herobody3-ii {
+  width: 250px;
+  background-color: #23263a;
+}
+.herobody3-ii img {
+  width: 30px;
+}
+.herobody3-iii {
+  width: 250px;
+  background-color: #23263a;
+}
+.herobody3-iii img {
+  width: 30px;
+}
+/* 1E2235 */
